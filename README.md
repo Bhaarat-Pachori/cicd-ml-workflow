@@ -1,10 +1,4 @@
 # Multi-Class Prediction of Obesity Risk
-Group members:
- - Anuradha Tarafder
- - Akanksha Shukla
- - Saroj Subedi
- - Annie Alexis
- - Jack Wilson
 
 ## Features
 - FAVC: Frequent consumption of high caloric food
